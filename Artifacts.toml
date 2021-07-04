@@ -1,0 +1,57 @@
+[[libspecfemUtils]]
+arch = "x86_64"
+git-tree-sha1 = "a95b31e492f32e558c99b8c2981dcb6c932af33c"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[libspecfemUtils.download]]
+    sha256 = "c7e91b92c3889aa343fc7af64fa6f17f921540e34ead61869a070aba09695bd0"
+    url = "https://github.com/ziyixi/libspecfemUtils_jll.jl/releases/download/libspecfemUtils-v0.0.1+0/libspecfemUtils.v0.0.1.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[libspecfemUtils]]
+arch = "x86_64"
+git-tree-sha1 = "c60459538da9671961f9cc3c87d57269a69c6f5f"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[libspecfemUtils.download]]
+    sha256 = "c05b7617accf8182f386f9ce047ce1d35e803e4f12547f03c99a3174c8444a6c"
+    url = "https://github.com/ziyixi/libspecfemUtils_jll.jl/releases/download/libspecfemUtils-v0.0.1+0/libspecfemUtils.v0.0.1.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[libspecfemUtils]]
+arch = "x86_64"
+git-tree-sha1 = "f0403e878ba61504e421518c7cdfb1c5ad53058a"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[libspecfemUtils.download]]
+    sha256 = "45a91de384d8bd0720031da7ed5f1150b33be2969bf7fc48859e5f9cf3d2d9a0"
+    url = "https://github.com/ziyixi/libspecfemUtils_jll.jl/releases/download/libspecfemUtils-v0.0.1+0/libspecfemUtils.v0.0.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[libspecfemUtils]]
+arch = "x86_64"
+git-tree-sha1 = "7c47e396248118c7a6d44dabf504647d64f4834a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[libspecfemUtils.download]]
+    sha256 = "7c35c064aed2b89621345f2fbd2f6379bf9e280e81311ffa36c5dd8e4a95a8d2"
+    url = "https://github.com/ziyixi/libspecfemUtils_jll.jl/releases/download/libspecfemUtils-v0.0.1+0/libspecfemUtils.v0.0.1.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[libspecfemUtils]]
+arch = "x86_64"
+git-tree-sha1 = "d49f194609141182f00c520113eeeb31848a9615"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[libspecfemUtils.download]]
+    sha256 = "ac9bdbbd85a6db771b98700597c1bb96316401bf6e268f1aa8786e71d004b75d"
+    url = "https://github.com/ziyixi/libspecfemUtils_jll.jl/releases/download/libspecfemUtils-v0.0.1+0/libspecfemUtils.v0.0.1.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[libspecfemUtils]]
+arch = "x86_64"
+git-tree-sha1 = "7b223498511a13ecfbdf2ab2f130faed6b86191a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[libspecfemUtils.download]]
+    sha256 = "cb28207bff16058b05636fabf5c101d6173afb670b4cc0ee9a3290d413018abd"
+    url = "https://github.com/ziyixi/libspecfemUtils_jll.jl/releases/download/libspecfemUtils-v0.0.1+0/libspecfemUtils.v0.0.1.x86_64-linux-gnu-libgfortran5.tar.gz"
